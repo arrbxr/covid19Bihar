@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/covid19bihar/static/css/main.b3cce50d.chunk.css",
+    "main.js": "/covid19bihar/static/js/main.98eee939.chunk.js",
+    "main.js.map": "/covid19bihar/static/js/main.98eee939.chunk.js.map",
+    "runtime-main.js": "/covid19bihar/static/js/runtime-main.831b40ae.js",
+    "runtime-main.js.map": "/covid19bihar/static/js/runtime-main.831b40ae.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/covid19bihar/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.20197cc7.chunk.js": "/covid19bihar/static/js/2.20197cc7.chunk.js",
+    "static/js/2.20197cc7.chunk.js.map": "/covid19bihar/static/js/2.20197cc7.chunk.js.map",
+    "index.html": "/covid19bihar/index.html",
+    "precache-manifest.03483734896dcdc088c3f961d45949a2.js": "/covid19bihar/precache-manifest.03483734896dcdc088c3f961d45949a2.js",
+    "service-worker.js": "/covid19bihar/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/covid19bihar/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.b3cce50d.chunk.css.map": "/covid19bihar/static/css/main.b3cce50d.chunk.css.map",
+    "static/js/2.20197cc7.chunk.js.LICENSE.txt": "/covid19bihar/static/js/2.20197cc7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.831b40ae.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.20197cc7.chunk.js",
+    "static/css/main.b3cce50d.chunk.css",
+    "static/js/main.98eee939.chunk.js"
+  ]
+}
