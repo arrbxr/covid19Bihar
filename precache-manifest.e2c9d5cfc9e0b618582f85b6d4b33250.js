@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d66ed8f06e1caaba057693493520e498",
+    "revision": "4533b1a954134b5d17f775560c142cb5",
     "url": "/covid19bihar/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid19bihar/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "6968e46c9d8625c6cced",
+    "revision": "74c16727dcbfeb8ae666",
     "url": "/covid19bihar/static/css/main.f0ed1b87.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid19bihar/static/js/2.20197cc7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6968e46c9d8625c6cced",
-    "url": "/covid19bihar/static/js/main.7068d1a5.chunk.js"
+    "revision": "74c16727dcbfeb8ae666",
+    "url": "/covid19bihar/static/js/main.cf91800e.chunk.js"
   },
   {
     "revision": "e1fa400f46031b052207",
